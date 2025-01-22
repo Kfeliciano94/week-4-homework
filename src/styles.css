@@ -81,6 +81,14 @@ body {
 
 }
 
+.about-me-para {
+    font-family: var(--primary-font-family);
+    font-size: 20px;
+    font-weight: 300;
+    background-color:rgb(238, 235, 231);
+    border-radius: 20px;
+}
+
 
 .profile-pic img {
     display: block;
